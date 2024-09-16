@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\riosj\\source\\repos\\University\\University\\University.csproj": {}
+    "C:\\Users\\riosj\\OneDrive\\Documentos\\Universidad\\Programación de Software\\University\\University\\University.csproj": {}
   },
   "projects": {
-    "C:\\Users\\riosj\\source\\repos\\University\\University\\University.csproj": {
+    "C:\\Users\\riosj\\OneDrive\\Documentos\\Universidad\\Programación de Software\\University\\University\\University.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\riosj\\source\\repos\\University\\University\\University.csproj",
+        "projectUniqueName": "C:\\Users\\riosj\\OneDrive\\Documentos\\Universidad\\Programación de Software\\University\\University\\University.csproj",
         "projectName": "University",
-        "projectPath": "C:\\Users\\riosj\\source\\repos\\University\\University\\University.csproj",
+        "projectPath": "C:\\Users\\riosj\\OneDrive\\Documentos\\Universidad\\Programación de Software\\University\\University\\University.csproj",
         "packagesPath": "C:\\Users\\riosj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\riosj\\source\\repos\\University\\University\\obj\\",
+        "outputPath": "C:\\Users\\riosj\\OneDrive\\Documentos\\Universidad\\Programación de Software\\University\\University\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
