@@ -1,0 +1,11 @@
+C:\Users\riosj\source\repos\Universidad\lib_entidades\bin\Debug\net8.0\lib_entidades.deps.json
+C:\Users\riosj\source\repos\Universidad\lib_entidades\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\riosj\source\repos\Universidad\lib_entidades\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\riosj\source\repos\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riosj\source\repos\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfoInputs.cache
+C:\Users\riosj\source\repos\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfo.cs
+C:\Users\riosj\source\repos\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.CoreCompileInputs.cache
+C:\Users\riosj\source\repos\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.dll
+C:\Users\riosj\source\repos\Universidad\lib_entidades\obj\Debug\net8.0\refint\lib_entidades.dll
+C:\Users\riosj\source\repos\Universidad\lib_entidades\obj\Debug\net8.0\lib_entidades.pdb
+C:\Users\riosj\source\repos\Universidad\lib_entidades\obj\Debug\net8.0\ref\lib_entidades.dll
